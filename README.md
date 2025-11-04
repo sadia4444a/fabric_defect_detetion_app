@@ -1,4 +1,4 @@
-<img width="2250" height="1500" alt="BoxF1_curve" src="https://github.com/user-attachments/assets/8080c871-b303-4c17-87d6-1d5f358d8e4e" /># 🧵 Fabric Defect Detection App
+# 🧵 Fabric Defect Detection App
 
 A **FastAPI application** for detecting defects in fabric images using a YOLO11l model.  
 Upload an image via the API and get predicted defects, confidence scores, and annotated heatmaps.  
