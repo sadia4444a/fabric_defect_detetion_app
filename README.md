@@ -70,3 +70,9 @@ Steps to test:
 }
 ```
 5. YOLO-formatted bounding box annotations are saved in /static/predictions/ for future training or annotation tasks.
+
+# Backend Demo:
+
+https://github.com/user-attachments/assets/cd1a6a5c-6c66-4fa7-a8ff-a87bd01a8e2c
+
+
