@@ -1,0 +1,12 @@
+services:
+  fabric_defect_detection_app:
+    build: .
+    env_file: .env
+    restart: always
+    volumes:
+      - ./:/fabric_defect_detection_app
+    networks:
+      - yolo-network
+
+networks:
+  yolo-network:

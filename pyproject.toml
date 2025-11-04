@@ -1,0 +1,23 @@
+[project]
+name = "fabric-defect-detetion-app"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "sadia4444a",email = "sadiasultana4444a@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ultralytics (>=8.3.225,<9.0.0)",
+    "fastapi (>=0.121.0,<0.122.0)",
+    "uvicorn (>=0.38.0,<0.39.0)",
+    "environs (>=14.5.0,<15.0.0)",
+    "python-multipart (>=0.0.20,<0.0.21)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+

@@ -1,0 +1,1 @@
+from .yolo_11l_detector import Yolo11lDetector
