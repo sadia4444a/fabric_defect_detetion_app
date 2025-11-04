@@ -46,7 +46,7 @@ cd fabric_defect_detetion_app
 DEBUG=True
 YOLO_11L_DETECTOR=/path/to/your/yolo/weights.pt
 ```
-drive link for model download : https://drive.google.com/file/d/1u-y_XU3Q9gL8hmCBo4OFEzErVM0y6LQJ/view?usp=sharing
+drive link for model download  and for other info about traning visit runs folder: https://drive.google.com/drive/folders/1dCMKDA7NIRWiyXBaL4-dqcxcK7m7pxgf?usp=sharing
 
 ### ▶️ Running the App
 ```bash
